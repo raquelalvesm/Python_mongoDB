@@ -1,0 +1,6 @@
+-Codigoapp.py
+-instalar pip install flask
+instalar pip install flask_restful
+-python app.py
+
+--Rodara na porta 5000
